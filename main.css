@@ -1,5 +1,30 @@
 body {
     background-image: url(pic.jpg);
     background-size: cover;
-    background-position: center center;
+    height: 800px;
+    background-repeat: no-repeat;
+}
+
+.navigation {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end; 
+}
+
+.toplinks {
+    color: white;
+    margin: 5px;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+    font-size: 40px;
+    margin-top: 200px;
+}
+
+h2 {
+    color: white;
+    font-size: 15px;
+    text-align: center;
 }
