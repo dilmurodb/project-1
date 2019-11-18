@@ -3,7 +3,9 @@
 body {
     background-image: url(pic.jpg);
     background-size: cover;
-    height: 800px;
+    max-width: 500px;
+    margin: 0 auto;
+    height: 820px;
     background-repeat: no-repeat;
 }
 
@@ -38,7 +40,8 @@ h2 {
 body {
     background-image: url(pic.jpg);
     background-size: cover;
-    height: 800px;
+    max-width: 1100px;
+    margin: 0 auto;
     background-repeat: no-repeat;
 }
 
@@ -74,8 +77,9 @@ h2 {
 body {
     background-image: url(pic.jpg);
     background-size: cover;
+    max-width: 1600px;
+    margin: 0 auto;
     background-position: center center;
-    width: 1400px;
     background-repeat: no-repeat;
 }
 
